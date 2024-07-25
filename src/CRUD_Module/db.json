@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy Note4 ",
+      "price": "15999",
+      "category": "mobiles",
+      "id": 1
+    },
+    {
+      "name": "Iphone 14 plus",
+      "price": "70000",
+      "category": "Electronics",
+      "id": 2
+    },
+    {
+      "name": "Oppo",
+      "price": "5500",
+      "category": "mobiles",
+      "id": 3
+    },
+    {
+      "name": "Fridge",
+      "price": "50000",
+      "category": "Electronics",
+      "id": 4
+    },
+    {
+      "name": "Peppi Jeans",
+      "price": "550",
+      "category": "Clothing",
+      "id": 5
+    },
+    {
+      "name": "Sunflower Oil 1KG",
+      "price": "200",
+      "category": "Groceries",
+      "id": 6
+    },
+    {
+      "name": "Grinder",
+      "price": "122",
+      "category": "Electronics",
+      "id": 7
+    }
+  ]
+}
